@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/Brick.png</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/Desk.png</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/Ball.png</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/BackgroundLines.png</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/BackgroundRoll.png</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Fonts/Rectangular.spritefont</File>
+    <File>C:/Users/Pe/Dropbox/programování/Arkanoid/Arkanoid/Content/Textures/Lives.png</File>
+  </SourceFiles>
+</SourceFileCollection>
